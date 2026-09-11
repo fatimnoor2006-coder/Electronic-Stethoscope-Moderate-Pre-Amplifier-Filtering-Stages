@@ -36,7 +36,7 @@ The **Low-Noise Analog Electronic Stethoscope** project addresses the inherent l
 | Parameter | Specification / Value | Notes |
 | :--- | :--- | :--- |
 | **Core Active Component** | IC741 Operational Amplifier | Configured in an inverting topology for stability |
-| **Power Supply** | $\pm 12\text{V}$ DC Supply | Ensures proper operation and full signal swing |
+| **Power Supply** | 12{V} DC Supply | Ensures proper operation and full signal swing |
 | **Midband Voltage Gain (A_v)** | 1,000 (60 dB) | Standard operating gain |
 | **Maximum System Gain** | 11,000 (80.8 dB) | Via gain divider mechanics |
 | **Target Clinical Ranges** | Heart: 20 Hz - 150 Hz<br>Lung: 100 {Hz} - 1,000 {Hz} | Focused auscultation bands |
